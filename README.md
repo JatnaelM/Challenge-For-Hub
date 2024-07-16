@@ -1,4 +1,4 @@
-# <h1 align="center">FORO-HUB API REST </h1>
+# <h1 align="center">CHALLENGE - FOR HUB </h1>
 
 ## <p align="center">Introducción
 
